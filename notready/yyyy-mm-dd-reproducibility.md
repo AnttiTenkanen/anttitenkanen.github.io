@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Scientific reproducibility"
-date: yyyy-mm-dd
+title: "Science and reproducibility"
+date: 2017-07-dd
 tags: 
 - science
 - reproducibility crisis
+- philosophy of science
 ---
 
 <p>I haven't posted anything in a while, because I have been rather tied up with an experiment. But now that that's done, I thought
@@ -15,6 +16,15 @@ it might be fun to poke around the internet once more. Recently, for some reason
 <br>
 <p>In the link above, Walter clarifies the different nuances of what can actually be meant with "reproduction". He cites an ASCB White Paper on Reproducibility that divides replication into analytical, direct, systematic and conceptual. You should really read the link for a better understanding, but in case you didn't, here's the main point: it would always be prudent to specify what kind of reproducibility issues we are discussing. Is another lab only unable to get the same statistical result from the same data? Or were they unable to get the same result after repeating the whole experiment themselves? Or going even further, looking for more generalizable results, were they unable to find the same systematic or conceptual effects that were discovered in the original study? A specific result, or a set of results, should of course (philosophically) always be repeatable, but nature is messy and so are laboratory practices.</p>
 <br>
-<p>Without any practical background in science, it is almost impossible for a normal person to understand what the 'scientific method' actually means in practice, and why science may be just as susceptible to our human flaws (to get a glimpse of this and also to start understanding some of the historical reasons for the crisis, <a href="http://blogs.biomedcentral.com/on-biology/2017/02/22/science-journey-search-destination/?utm_campaign=BMC40646B&utm_medium=BMCemail&utm_source=Teradata">read this short story</a>). After all, science is what provides us cures, airplanes and mobile phones, it gives us good advice on health, nutrition and ecology, it peeks into our past, our mind, the universe. It has earned our trust, and deservedly so. But science precisely is suspectible to human error, and there's no divine intervention or ready-given answers. As we have adopted science as our world-view, we have accepted it's self-corrective nature and many scientists accept life as a never-ending riddle with no absolute truths. Every result we get, every insight we gain, we never think it is the final answer, as there's always a margin of error. Then there's always advancement; new mathematical methods to analyze data, new instruments to measure more precisely and better judgement to make broad conclusions.</p>
+<p>Without any practical background in science, it is almost impossible for a normal person to understand what the 'scientific method' actually means in practice, and why science may be just as susceptible to our human flaws (to get a glimpse of this and also to start understanding some of the historical reasons for the crisis, <a href="http://blogs.biomedcentral.com/on-biology/2017/02/22/science-journey-search-destination/?utm_campaign=BMC40646B&utm_medium=BMCemail&utm_source=Teradata">read this short story</a>). After all, science is what provides us cures, airplanes and mobile phones, it gives us good advice on health, nutrition and ecology, it peeks into our past, our mind, the universe. It has earned our trust, and deservedly so. But science precisely is suspectible to human error, and there's no divine intervention or ready-given answers. As we have adopted science as our world-view, we have accepted it's self-corrective nature and many scientists accept life as a never-ending riddle with no absolute truths. Every result we get, every insight we gain, we never think it is the final answer, as there's always a margin of error. Then there's always advancement; new mathematical methods to analyze data with, new instruments to measure more precisely and better judgement to make broad conclusions. Sometimes problems with replication are in fact advancement, sometimes so much it <a href="https://en.wikipedia.org/wiki/Paradigm_shift">changes our view of the world</a></p>
 <br>
-<p>Science works, at least when viewed in a historical context; the world has arguably never before been more hospitable for the human race, and it's mostly thanks to science and science-based human cooperation.
+<p>Science works. At least when viewed in a historical context, the world has arguably never before been more hospitable for the human race, and it's mostly thanks to science and science-based human cooperation. But sometimes science works less admirably, and this is where we get to some of the reasons of the current crisis. For scientists, science is their bread and butter; they go to work, they do what they do, and they try to pay the bills with that. But different from many other professions, science differs in how you get the paycheck. The incentive-system in modern science basically means that <a href="http://www.nature.com/news/young-talented-and-fed-up-scientists-tell-their-stories-1.20872">to build a career and get by</a>, you need to publish results fast, in high quantities and in highly-ranked money-bringing journals. This system makes sense precisely because science is no longer just the hobby of rich gentlemen, but a profession among others, and in any profession there is a need to evaluate and compare the professionals. <a href="https://en.wikipedia.org/wiki/Citation_impact">Countless indices, metrics and scholarly impact factors exist</a> to move the moneypiles around </p>
+
+<a href="http://www.nature.com/news/the-pressure-to-publish-pushes-down-quality-1.19887"></a>
+
+<p>There is a possibility for improvement though, 
+
+http://www.nature.com/news/no-publication-without-confirmation-1.21509?WT.mc_id=TWT_NatureNews
+
+http://blogs.biomedcentral.com/on-biology/2017/05/03/scientific-odyssey-pre-registering-voyage/?utm_campaign=BMC40731B&utm_medium=BMCemail&utm_source=Teradata
+</p>
