@@ -27,4 +27,6 @@ it might be fun to poke around the internet once more. Recently, for some reason
 http://www.nature.com/news/no-publication-without-confirmation-1.21509?WT.mc_id=TWT_NatureNews
 
 http://blogs.biomedcentral.com/on-biology/2017/05/03/scientific-odyssey-pre-registering-voyage/?utm_campaign=BMC40731B&utm_medium=BMCemail&utm_source=Teradata
+
+https://elifesciences.org/articles/21451  tän voi laittaa kun puhuu siitä että negatiivisia tuloksia pitäisi julkaista enemmän. samaan syssyyn voi laittaa jotain siitä flogistonista, kuinka yhdellä tieteen alalla tehty väärä johtopäätelmä pysäytti lähes kaiken tieteellisen edistyksen sadaksi vuodeksi.
 </p>
