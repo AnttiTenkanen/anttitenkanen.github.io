@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "placeholder"
-date: 2020-26-10
+date: 2020-10-26
 tags: 
 - just a placeholder
 ---
